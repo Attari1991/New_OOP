@@ -1,0 +1,4 @@
+Interface: is guideline for future/proto type design for your reference so that
+the development team can follow this to develop a complete product
+2)use an abstract class when a template needs to be defined for a group of subclasses
+3)use an interface when  a role need to be defined other classes,regardless of the inheritance of classes
